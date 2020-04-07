@@ -1,2 +1,12 @@
-jupyter
 sympy==1.5.1
+jupyter
+re
+glob
+matplotlib
+numpy
+pandas
+os
+itertools
+pickle
+tqdm
+multiprocessing
