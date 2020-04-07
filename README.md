@@ -12,7 +12,7 @@ Output will be the ODEs for the nine modes as a function of alpha, gamma and Re.
 The transition to a numeric equation as well as a simple numeric solution are included as well.
 
 A exemplary solution to the equations looks like:  
-![Solution to the Nine Mode Model](solution.png)
+![Solution to the Nine Mode Model](img/solution.png)
 
 
 ## License
